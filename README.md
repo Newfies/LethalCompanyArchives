@@ -1,5 +1,3 @@
-# LethalCompanySounds
-
 ## LATEST ADDITIONS
 - v62
 
