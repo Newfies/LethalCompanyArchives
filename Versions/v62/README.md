@@ -1,8 +1,7 @@
-## NOTICE
-This isn't really maintained anymore, it was more like a one time thing, but now that I'm playing it again I'm doing this because why not :)
-
 ## LATEST ADDITIONS
-- v69 In progress of being uploaded.
+- v62 Sounds Have Been Archived Here
+- Redid The Entire Folder System... Again
+- v62 Textures Added
 
 ## LINKS
 - Working On The Wiki - [**Check It Out**](https://github.com/Newfies/LethalCompanyArchives/wiki)
